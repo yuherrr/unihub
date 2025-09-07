@@ -23,7 +23,7 @@ UniHub brings all these into **one seamless, secure, and user-friendly platform*
 
 ---
 
-## 🛠Built With
+## Built With
 - **Frontend**: React Native / Flutter  
 - **Backend**: Node.js + Express  
 - **Database**: Firebase / MongoDB  
